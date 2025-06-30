@@ -1,0 +1,338 @@
+{
+  "perfect|||ed sheeran": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "woke up|||sheff g": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "tu hain toh (from \"mr. and mrs. mahi\")|||bunny": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "o shera - teer te taj (film version) - from \"kesari chapter 2\"|||shashwat sachdev": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "zamaana lage (from \"metro ... in dino\")|||pritam": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "aankh|||sunidhi chauhan": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "godari gattu meedha (from \"sankranthiki vasthunam\")|||ramana gogula": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "dabidi dibidi (from \"daaku maharaaj\")|||thaman s": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "prema velluva (from \"hit - 3\") (telugu)|||mickey j. meyer": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "ecstasy|||ritvik virmani": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "polytope|||daichi miura": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "your number|||darkoo": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "on my mind|||alex warren": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "all i want|||kodaline": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "ordinary|||alex warren": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "madhurashtakam krishna song|||mahalakshmi iyer": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "mere kanha|||jaya kishori": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "krishn hain vistaar (radhakrishn)|||surya raj kamal": {
+    "valence": {
+      "dmean": 0.010085050948,
+      "dmean2": 0.0100981611758,
+      "dvar": 7.20613752492e-05,
+      "dvar2": 8.71572774486e-05,
+      "max": 0.817463576794,
+      "mean": 0.539990603924,
+      "median": 0.533071398735,
+      "min": 0.253927379847,
+      "var": 0.0107663422823
+    },
+    "energy": {
+      "dmean": 2.97226285934,
+      "dmean2": 4.75346755981,
+      "dvar": 9.55348110199,
+      "dvar2": 22.7331066132,
+      "max": 45,
+      "mean": 15.6694316864,
+      "median": 15,
+      "min": 0,
+      "var": 38.2048225403
+    },
+    "danceability": 560,
+    "tempo": 92.1660461426
+  },
+  "achyutashtakam|||suprabha kv": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "banwaari krishna muraari|||aishwarya majmudar": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "shri krishna govind|||shankar mahadevan": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "akhilanda koti|||sarath santosh": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "hare krishna hare rama|||jubin nautiyal": {
+    "valence": {
+      "dmean": 0.0140823442489,
+      "dmean2": 0.015564055182,
+      "dvar": 0.000147759681568,
+      "dvar2": 0.000215611085878,
+      "max": 0.853420257568,
+      "mean": 0.542130947113,
+      "median": 0.551376879215,
+      "min": 0.249140560627,
+      "var": 0.0106584476307
+    },
+    "energy": {
+      "dmean": 2.3138320446,
+      "dmean2": 3.70563983917,
+      "dvar": 5.01022815704,
+      "dvar2": 11.5614957809,
+      "max": 45,
+      "mean": 15.0603075027,
+      "median": 15,
+      "min": 0,
+      "var": 58.0082054138
+    },
+    "danceability": 472,
+    "tempo": 151.661117554
+  },
+  "achyutam keshavam by alka yagnik - from \"achyutam keshavam by alka yagnik - zee music devotional\"|||sanjeev chaturvedi": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "radha rani lage|||simpal kharel": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "shree krishna govind hare murari|||maanya arora": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "tum prem ho - female|||simpal kharel": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "kaun kehte hain bhagwan aate nahi (achyutam keshavam)|||payal dev": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "shree hari stotram|||g. gayathri devi": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "shri krishna govind hare murari|||jubin nautiyal": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "madhurashtakam|||trisha parui": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "o paalanhaare|||a.r. rahman": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "achyutam keshavam|||sandesh shandilya": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "radhakrishna naamawali chant|||mohit lalwani": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "jagajjalapalam|||suprabha kv": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "watermelon sugar|||harry styles": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "starboy|||the weeknd": {
+    "valence": {
+      "dmean": 0.00901379343122,
+      "dmean2": 0.00762537121773,
+      "dvar": 6.01861502219e-05,
+      "dvar2": 5.29915887455e-05,
+      "max": 0.755398571491,
+      "mean": 0.526961505413,
+      "median": 0.525771558285,
+      "min": 0.278486758471,
+      "var": 0.00782037805766
+    },
+    "energy": {
+      "dmean": 3.99571347237,
+      "dmean2": 6.53907299042,
+      "dvar": 28.1982383728,
+      "dvar2": 68.2280349731,
+      "max": 60,
+      "mean": 17.6215724945,
+      "median": 17,
+      "min": 0,
+      "var": 90.8822860718
+    },
+    "danceability": 449,
+    "tempo": 93.0105514526
+  },
+  "shape of you|||ed sheeran": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "save your tears|||the weeknd": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "don't start now|||dua lipa": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "evarevaro|||vishal mishra": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "odiyamma (from \"hi nanna\") [telugu]|||dhruv vikram": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "pushpa pushpa (from \"pushpa 2 the rule\") [telugu]|||nakash aziz": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "maiyya|||sachet-parampara": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "sanu ek pal chain|||rahat fateh ali khan": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  },
+  "tum kya mile (from \"rocky aur rani kii prem kahaani\")|||pritam": {
+    "valence": null,
+    "energy": null,
+    "danceability": 0.3,
+    "tempo": null
+  }
+}
